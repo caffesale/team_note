@@ -1,1 +1,5 @@
-#Team Note
+# Team Note
+
+## CRACKING
+
+## LEETCODE
